@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
  * get_flags - calculate the active flags
  * @format: formated string to print arguments
